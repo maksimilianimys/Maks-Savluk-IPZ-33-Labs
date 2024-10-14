@@ -1,0 +1,8 @@
+.dart_tool
+.idea
+android
+build
+ios
+macos
+cros.iml
+README.md
